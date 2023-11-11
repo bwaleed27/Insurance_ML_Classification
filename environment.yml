@@ -1,0 +1,19 @@
+#Always update this file if a new requirement is needed
+name: ba-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - pip:
+    - numpy
+    - pandas
+    - scikit-learn
+    - matplotlib
+    - jupyter
+    - pylint
+    - notebook
+    - seaborn
+    - imbalanced-learn
+

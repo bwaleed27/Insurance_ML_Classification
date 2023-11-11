@@ -1,0 +1,10 @@
+Index(['Age', 'Driving_License', 'Previously_Insured', 'Annual_Premium',
+       'Vintage', 'Gender_Male', 'Region_Code_1', 'Region_Code_2',
+       'Region_Code_3', 'Region_Code_4',
+       ...
+       'Policy_Sales_Channel_152', 'Policy_Sales_Channel_153',
+       'Policy_Sales_Channel_154', 'Policy_Sales_Channel_155',
+       'Policy_Sales_Channel_156', 'Policy_Sales_Channel_157',
+       'Policy_Sales_Channel_158', 'Policy_Sales_Channel_159',
+       'Policy_Sales_Channel_160', 'Policy_Sales_Channel_163'],
+      dtype='object', length=215)

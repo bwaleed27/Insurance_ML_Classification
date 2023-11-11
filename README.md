@@ -1,1 +1,1 @@
-# Insurance_ML_Classification
+# business-analytics
